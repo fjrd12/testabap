@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTEST_ABAP_HELLO.
-write: 'Hello git'.
+write: 'Hello git segundo commit'.
